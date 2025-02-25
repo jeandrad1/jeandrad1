@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jesús Andrade Perez
 ## About Me
 
-🌱 I'm currenly learning C language programming in 42 School, in Málaga.  
+🌱 I'm currenly in 42 School, in Málaga. I did all the C programming language projects in the Common Core and now I'm doing projects about C++ and other technologies.
 
 <!--
 Here are some ideas to get you started:
