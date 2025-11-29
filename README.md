@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jesús Andrade Perez
 ## About Me
 
-🌱 I'm currenly in 42 School, in Málaga. I did all the C programming language projects in the Common Core and now I'm doing projects about C++ and other technologies.
+🌱 I'm currenly in 42 School, in Málaga. I finished the Common Core on November 25 2025. I learned C, C++ and Typescript doing the Common Core and also learned Python by using the 42API for personal projects.
 
 <!--
 Here are some ideas to get you started:
