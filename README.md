@@ -1,10 +1,11 @@
 # Hi, I'm Jesús
 ## About Me
 
-I'm a software development student at **42 School Málaga**, where I completed the **Common Core on November 25, 2025**.  
-During my training, I developed strong skills in **C**, **C++**, and **TypeScript**, and also learned **Python** by working with the 42 API for personal projects.
+I'm a software development student at 42 School Málaga, where I completed the Common Core on November 25, 2025.
+Throughout my training, I developed strong skills in C, C++, and TypeScript, and also learned Python by working extensively with the 42 API, creating tools to fetch, process, filter, and analyze data in dynamic ways.
 
-I enjoy building clean, efficient, and maintainable software. I'm especially interested in **low-level programming**, **system design**, and **API-based applications**.
+I particularly enjoy backend development, having worked on projects such as Transcendence and Webserv, where I focused on building scalable architectures, handling data flow efficiently, and implementing robust server-side logic.
+My main interests lie in API-driven development, backend engineering, and system design, always aiming to build clean, efficient, and maintainable software.
 
 ## Tech Stack
 
