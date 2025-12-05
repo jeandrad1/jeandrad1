@@ -1,20 +1,26 @@
-# Hi 👋, I'm Jesús Andrade Perez
+# Hi, I'm Jesús
 ## About Me
 
-🌱 I'm currenly in 42 School, in Málaga. I finished the Common Core on November 25 2025. I learned C, C++ and Typescript doing the Common Core and also learned Python by using the 42API for personal projects.
+I'm a software development student at **42 School Málaga**, where I completed the **Common Core on November 25, 2025**.  
+During my training, I developed strong skills in **C**, **C++**, and **TypeScript**, and also learned **Python** by working with the 42 API for personal projects.
 
-<!--
-Here are some ideas to get you started:
+I enjoy building clean, efficient, and maintainable software. I'm especially interested in **low-level programming**, **system design**, and **API-based applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### **Languages**
+- C, C++
+- TypeScript / JavaScript
+- Python
+- Bash
+
+### **Tools & Technologies**
+- Git & GitHub  
+- Linux  
+- Docker  
+- Makefile  
+- REST APIs  
+- Node.js  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -32,3 +38,10 @@ Here are some ideas to get you started:
   </ul>
 </div>
 -->
+
+## Contact
+
+- **Email:** jesusandradeperez.@gmail.com  
+- **LinkedIn:** *https://www.linkedin.com/in/jes%C3%BAs-andrade-perez-50299b2ba/*
+
+---
