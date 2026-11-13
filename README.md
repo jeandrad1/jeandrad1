@@ -1,27 +1,35 @@
 # Hi, I'm Jesús
+
 ## About Me
+I'm a software development student at 42 School Málaga, where I completed the Common Core on November 25, 2025. Throughout my training, I developed strong skills in C, C++, and TypeScript, and also learned Python by working extensively with the 42 API, creating tools to fetch, process, filter, and analyze data in dynamic ways.
 
-I'm a software development student at 42 School Málaga, where I completed the Common Core on November 25, 2025.
-Throughout my training, I developed strong skills in C, C++, and TypeScript, and also learned Python by working extensively with the 42 API, creating tools to fetch, process, filter, and analyze data in dynamic ways.
+I work as a **C++ developer on real-time systems** at Tecsidel, where I develop software for toll systems running on Linux/Debian environments. My interests center on **low-level programming, Linux internals, and real-time/embedded systems** — I care deeply about performance, memory efficiency, and writing clean, predictable, maintainable code where it actually matters at the system level.
 
-I particularly enjoy backend development where I focused on building scalable architectures, handling data flow efficiently, and implementing robust server-side logic.
-My main interests lie in API-driven development, backend engineering, and system design, always aiming to build clean, efficient, and maintainable software.
+I also completed a C++ embedded systems internship building an industrial video evidence capture system on Raspberry Pi CM4 hardware, working directly with hardware abstraction layers (HAL), GPIO devices, and real hardware validation.
+
+Recently I built a Linux system from scratch following the LFS (Linux From Scratch) process — including a fully interactive GUI environment (Xorg + dwm) built and debugged down to the driver level.
 
 ## Tech Stack
 
-### **Languages**
+**Languages**
 - C, C++
 - TypeScript / JavaScript
 - Python
 - Bash
 
-### **Tools & Technologies**
-- Git & GitHub  
-- Linux  
-- Docker  
-- Makefile  
-- REST APIs  
-- Node.js  
+**Systems & Low-Level**
+- Linux internals
+- Real-time systems
+- Embedded / hardware debugging (GPIO, HAL)
+- Linux From Scratch (kernel config, systemd init, GRUB, Xorg/dwm stack from source)
+- Cache-aware & performance-critical C++
+
+**Tools & Technologies**
+- Git & GitHub
+- Docker
+- Makefile
+- REST APIs
+- Node.js
 
 ### ⚙️ &nbsp;GitHub Analytics
 
